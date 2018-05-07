@@ -37,8 +37,4 @@ function preload() {
   pickKey =  loadSound("public/music/pickKey.wav");
 
 }
-
-if (basementMusic.context.state !== 'running') {
-        basementMusic.context.resume();
-    }
 //preload ends
