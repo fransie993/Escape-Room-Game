@@ -5,12 +5,6 @@ This is our Escape Room so far (AP2018 final project)
 
 **Need to have:**
 
-Change buttons layout
-
-Adding pictures for every "menu" (missing game over and you won menu)
-
-Make a final score screen
-
 
 **Nice to have:**
 
@@ -18,7 +12,7 @@ Highscore
 
 Use keyboard when entering the code
 
-Easter Eggs
+Change buttons layout
 
 
 **Already implemented:**
@@ -62,3 +56,9 @@ A revamped flowchart
 Hovertext is fully functional across all rooms
 
 Exit sign put on door
+
+Adding pictures for every "menu" (missing game over and you won menu)
+
+Make a final score screen
+
+Easter Eggs
